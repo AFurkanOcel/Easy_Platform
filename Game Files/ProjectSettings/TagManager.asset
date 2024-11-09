@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coin
+  - Flag
+  - plane
+  - rotateobjectbarrier
+  - rotateobjectplane
+  - rotate2
+  - rotate
+  - rotate3
+  - Flag2
+  - Flag3
+  - Flag4
+  - Flag5
+  - Flag6
+  - key
+  - key2
+  - key3
+  - key4
+  - key5
+  - key6
+  - gravitybender
+  - planedestroying
+  - yellowkey
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
