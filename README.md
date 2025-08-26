@@ -72,8 +72,6 @@ In **Easy Platform**, players navigate through levels to reach the flag and comp
 
 **Levels**  
 
-<img width="400" alt="lvls" src="https://github.com/user-attachments/assets/4368f7a8-120b-4583-a24a-81062d59bfc7" />
-
 <img width="400" alt="lvl1" src="https://github.com/user-attachments/assets/6da74946-40e4-4ef6-ac23-e3bcde5f2833" />
 
 <img width="400" alt="lvl2" src="https://github.com/user-attachments/assets/a2c7542c-1c01-4fc7-959c-c5d28625559a" />
