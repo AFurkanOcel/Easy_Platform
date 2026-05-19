@@ -280,7 +280,7 @@ Compiled builds are not stored in this source repository. Release builds should 
 
 ### Game Development
 
-**A. Furkan OCEL**
+**A. Furkan ÖCEL**
 
 GitHub: https://github.com/AFurkanOcel
 
