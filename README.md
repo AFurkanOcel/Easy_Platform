@@ -33,17 +33,17 @@ Each level is built around a simple platformer loop:
 
 The game also includes a level selection menu with sequential unlocking. Later levels introduce special mechanics such as gravity reversal, obstacle removal, ghost-like hazards, and spike-clearing pickups.
 
-<img width="400" alt="easy platform level 1" src="https://github.com/user-attachments/assets/6da74946-40e4-4ef6-ac23-e3bcde5f2833" />
+<img width="400" alt="easy platform level 1" src="Assets/screenshots/level-1.png" />
 
-<img width="400" alt="easy platform level 2" src="https://github.com/user-attachments/assets/a2c7542c-1c01-4fc7-959c-c5d28625559a" />
+<img width="400" alt="easy platform level 2" src="Assets/screenshots/level-2.png" />
 
-<img width="400" alt="easy platform level 3" src="https://github.com/user-attachments/assets/29247d52-6d23-48ba-a98d-f8a292ca70a5" />
+<img width="400" alt="easy platform level 3" src="Assets/screenshots/level-3.png" />
 
-<img width="400" alt="easy platform level 4" src="https://github.com/user-attachments/assets/8978df7f-ad02-484b-aec0-ea2babd21d2f" />
+<img width="400" alt="easy platform level 4" src="Assets/screenshots/level-4.png" />
 
-<img width="400" alt="easy platform level 5" src="https://github.com/user-attachments/assets/01a41307-9ac7-4730-bb57-e0ade417aded" />
+<img width="400" alt="easy platform level 5" src="Assets/screenshots/level-5.png" />
 
-<img width="400" alt="easy platform level 6" src="https://github.com/user-attachments/assets/c3fb5a9b-b664-4f7a-b50a-3df146892088" />
+<img width="400" alt="easy platform level 6" src="Assets/screenshots/level-6.png" />
 
 ---
 
@@ -75,6 +75,13 @@ Easy_Platform/
 |   |   |-- lvl4.unity
 |   |   |-- lvl5.unity
 |   |   `-- lvl6.unity
+|   |-- screenshots/
+|   |   |-- level-1.png
+|   |   |-- level-2.png
+|   |   |-- level-3.png
+|   |   |-- level-4.png
+|   |   |-- level-5.png
+|   |   `-- level-6.png
 |   |-- scripts/
 |   |   |-- mainscript.cs
 |   |   |-- lvlsscript.cs
