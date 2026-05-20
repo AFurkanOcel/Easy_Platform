@@ -33,17 +33,13 @@ Each level is built around a simple platformer loop:
 
 The game also includes a level selection menu with sequential unlocking. Later levels introduce special mechanics such as gravity reversal, obstacle removal, ghost-like hazards, and spike-clearing pickups.
 
-<img width="400" alt="easy platform level 1" src="Assets/screenshots/level-1.png" />
-
-<img width="400" alt="easy platform level 2" src="Assets/screenshots/level-2.png" />
-
-<img width="400" alt="easy platform level 3" src="Assets/screenshots/level-3.png" />
-
-<img width="400" alt="easy platform level 4" src="Assets/screenshots/level-4.png" />
-
-<img width="400" alt="easy platform level 5" src="Assets/screenshots/level-5.png" />
-
-<img width="400" alt="easy platform level 6" src="Assets/screenshots/level-6.png" />
+| Level 1 | Level 2 |
+|---|---|
+| <img width="400" alt="easy platform level 1" src="Assets/screenshots/level-1.png" /> | <img width="400" alt="easy platform level 2" src="Assets/screenshots/level-2.png" /> |
+| Level 3 | Level 4 |
+| <img width="400" alt="easy platform level 3" src="Assets/screenshots/level-3.png" /> | <img width="400" alt="easy platform level 4" src="Assets/screenshots/level-4.png" /> |
+| Level 5 | Level 6 |
+| <img width="400" alt="easy platform level 5" src="Assets/screenshots/level-5.png" /> | <img width="400" alt="easy platform level 6" src="Assets/screenshots/level-6.png" /> |
 
 ---
 
