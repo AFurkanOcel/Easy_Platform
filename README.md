@@ -72,12 +72,6 @@ Easy_Platform/
 |   |   |-- lvl5.unity
 |   |   `-- lvl6.unity
 |   |-- screenshots/
-|   |   |-- level-1.png
-|   |   |-- level-2.png
-|   |   |-- level-3.png
-|   |   |-- level-4.png
-|   |   |-- level-5.png
-|   |   `-- level-6.png
 |   |-- scripts/
 |   |   |-- mainscript.cs
 |   |   |-- lvlsscript.cs
@@ -91,8 +85,6 @@ Easy_Platform/
 |-- README.md
 `-- .gitignore
 ```
-
-Unity-generated folders such as `Library`, `Logs`, `UserSettings`, and `obj` are intentionally ignored by Git.
 
 ---
 
